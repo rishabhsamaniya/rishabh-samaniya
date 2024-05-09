@@ -1,3 +1,3 @@
 # rishabh-samaniya
 This is my First git repository
-Author - Rishabh Samaniya
+Author - Thakur Rishabh Samaniya
